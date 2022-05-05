@@ -130,3 +130,4 @@ dmypy.json
 
 # secrets file - never check this in
 secrets.py
+scratch
